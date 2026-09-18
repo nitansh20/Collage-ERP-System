@@ -1,0 +1,6 @@
+{
+  "name": "College ERP — Integrated Student Management System",
+  "description": "Production-oriented Hogward University ERP & Student Management System unifying admissions, academic structure, bulk Excel/CSV automation, 13-digit enrollment scheme, ACID marks upload, role-based customizable dashboard, and audit telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
